@@ -1,14 +1,14 @@
 [
   {
-    "package": "robustHD",
-    "oncran": true
-  },
-  {
     "package": "r2spss",
     "oncran": true
   },
   {
     "package": "robmed",
+    "oncran": true
+  },
+  {
+    "package": "robustHD",
     "oncran": true
   }
 ]
