@@ -1,5 +1,21 @@
 [
   {
+    "package": "ccaPP",
+    "oncran": true
+  },
+  {
+    "package": "laeken",
+    "oncran": true
+  },
+  {
+    "package": "perry",
+    "oncran": true
+  },
+  {
+    "package": "perryExamples",
+    "oncran": true
+  },
+  {
     "package": "r2spss",
     "oncran": true
   },
@@ -9,6 +25,14 @@
   },
   {
     "package": "robustHD",
+    "oncran": true
+  },
+  {
+    "package": "simFrame",
+    "oncran": true
+  },
+  {
+    "package": "sparseLTSEigen",
     "oncran": true
   }
 ]
