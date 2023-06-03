@@ -33,6 +33,11 @@
 	url = https://github.com/aalfons/robmed
 	shallow = true
 	registered = true
+[submodule "robmedExtra"]
+	path = robmedExtra
+	url = https://github.com/aalfons/robmedextra
+	shallow = true
+	registered = true
 [submodule "robustHD"]
 	path = robustHD
 	url = https://github.com/aalfons/robusthd
