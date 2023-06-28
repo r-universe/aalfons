@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/aalfons/ccapp
-	shallow = true
-	registered = true
 [submodule "laeken"]
 	path = laeken
 	url = https://github.com/aalfons/laeken
-	shallow = true
-	registered = true
 [submodule "perry"]
 	path = perry
 	url = https://github.com/aalfons/perry
-	shallow = true
-	registered = true
 [submodule "perryExamples"]
 	path = perryExamples
 	url = https://github.com/aalfons/perryexamples
-	shallow = true
-	registered = true
 [submodule "r2spss"]
 	path = r2spss
 	url = https://github.com/aalfons/r2spss
-	shallow = true
-	registered = true
 [submodule "robmed"]
 	path = robmed
 	url = https://github.com/aalfons/robmed
-	shallow = true
-	registered = true
 [submodule "robmedExtra"]
 	path = robmedExtra
 	url = https://github.com/aalfons/robmedextra
-	shallow = true
-	registered = true
 [submodule "robustHD"]
 	path = robustHD
 	url = https://github.com/aalfons/robusthd
-	shallow = true
-	registered = true
 [submodule "simFrame"]
 	path = simFrame
 	url = https://github.com/aalfons/simframe
-	shallow = true
-	registered = true
 [submodule "sparseLTSEigen"]
 	path = sparseLTSEigen
 	url = https://github.com/aalfons/sparseltseigen
-	shallow = true
-	registered = true
