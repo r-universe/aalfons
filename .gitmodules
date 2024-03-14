@@ -5,6 +5,9 @@
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/aalfons/ccapp
+[submodule "cvTools"]
+	path = cvTools
+	url = https://github.com/aalfons/cvtools
 [submodule "laeken"]
 	path = laeken
 	url = https://github.com/aalfons/laeken
