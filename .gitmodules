@@ -8,6 +8,9 @@
 [submodule "ccaPP"]
 	path = ccaPP
 	url = https://github.com/aalfons/ccapp
+[submodule "clusterGGM"]
+	path = clusterGGM
+	url = https://github.com/aalfons/clusterggm
 [submodule "cvTools"]
 	path = cvTools
 	url = https://github.com/aalfons/cvtools
